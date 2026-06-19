@@ -5,7 +5,7 @@
 
 Presenting the benefits of using GitHub to improve open science practices within (psychological) research.
 
-- [Webpage](https://www.sussex.ac.uk/research/about/festival/events?id=70615)
+- [Webpage]([https://www.sussex.ac.uk/research/about/festival/events?id=70615](https://www.sussex.ac.uk/research/about/festival))
 - [My Slides](documents/Oliver_Collins_SoR.pdf)
 
 ## 2026/05/21: Phenomenal Workshop: Progress in Phenomenological Control (University of Sussex)
