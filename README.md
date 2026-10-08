@@ -25,7 +25,7 @@ Discussing the background and findings of a publication I was involved in: "Test
 - [My Slides](documents/Oliver_Collins_PCS.pdf)
 - [Original Paper](https://osf.io/preprints/psyarxiv/873th_v5)
 
-## References
+# References
 Makowski, D., & Neves, A. (2026). Testing the Relationship between Phenomenological Control related to Illusion Sensitivity. PsyArXiv. https://doi.org/10.31234/osf.io/873th_v7
 
 Makowski, D., Te, A. S., Kirk, S., Liang, N. Z., & Chen, S. H. A. (2023). A novel visual illusion paradigm provides evidence for a general factor of illusion sensitivity and personality correlates. Scientific Reports, 13(1), 6594. https://doi.org/10.1038/s41598-023-33148-5
