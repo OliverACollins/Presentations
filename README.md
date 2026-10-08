@@ -1,6 +1,6 @@
 # Presentations
 
-## 2026/10/07: Second Meeting of the School of Psychology Sensory and Perceptual Diversity Centre
+## 2026/10/07: Second Meeting of the School of Psychology Sensory and Perceptual Diversity Centre (University of Sussex)
 *Glitches in the Matrix: What Visual Illusions Tell Us About the Functioning Mind* (Oliver Collins & Dominique Makowski)
 
 Introducing a novel visual illusion paradigm (the "Illusion Game"; Makowski et al., 2023) and its implementation across different experiments.
